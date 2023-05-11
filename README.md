@@ -16,7 +16,7 @@ Demo:
 Run demo.m 
 
 Raw Results:
-[PTB-TIR](https://drive.google.com/file/d/1d3YeJT5u_XK2V6JfgJbyVrwI7AVHp3eu/view?usp=share_link)
+[PTB-TIR_Results](https://drive.google.com/file/d/1jxNwLaCuh490XfiVwLLXRjAPcDg_LnOf/view?usp=share_link)
 
 
 
